@@ -1,7 +1,13 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Gicheon's%20GitHub&fontSize=90)
 
-### Hi there 👋
+<div align = center>
+
+  ### Hi there 👋
+  
+</div>
+
+
 
 <!--
 **kang-gicheon/kang-gicheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
