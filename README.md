@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Gicheon's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=429dd6&height=300&section=header&text=Gicheon's%20GitHub&fontSize=90)
 
 <div align = center>
 
