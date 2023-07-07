@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20GiCheon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=I'm%20GiCheon&fontSize=90)
 
 ### Hi there 👋
 
