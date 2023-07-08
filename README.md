@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/oracle-#F80000?style=flat&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Oracle&logoColor=white"/>
 
   
 </div>
