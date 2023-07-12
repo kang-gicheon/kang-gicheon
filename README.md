@@ -24,7 +24,7 @@
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-gicheon&layout=Demo&theme=gruvbox)
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
 </div>
 
