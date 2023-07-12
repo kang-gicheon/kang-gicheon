@@ -24,7 +24,7 @@
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-gicheon&layout=Demo&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang gicheon&layout=compact&theme=gruvbox
 
 </div>
 
