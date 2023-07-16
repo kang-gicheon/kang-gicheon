@@ -3,7 +3,7 @@
 
 <div align = center>
 
-  ### Hi there 👋
+  ### welcome! 👋
   <br><br>
 
 ## Skill
