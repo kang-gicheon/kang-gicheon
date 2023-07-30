@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 
-## Languages
+## Languages & stats
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-gicheon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
