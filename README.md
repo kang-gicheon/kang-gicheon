@@ -1,10 +1,9 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Gicheon's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Gicheon🚗💨&fontAlign=70)
 
 <div align = center>
 
-  ### welcome! 👋
-  <br><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5755&lines=gicheon's+GitHub&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)
 
 ## Skill
 
@@ -14,9 +13,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-
-
-<br><br>
 
 ## Studying
 
@@ -28,7 +24,12 @@
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-gicheon&layout=compact&theme=gruvbox)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-gicheon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=kang-gicheon&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 </div>
 
