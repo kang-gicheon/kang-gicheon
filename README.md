@@ -6,6 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5755&lines=gicheon's+GitHub&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)
 
  </div>
+ 
 ## 📚 주 사용 skill & 기술
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
