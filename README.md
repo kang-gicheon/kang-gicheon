@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
 <img src="https://img.shields.io/badge/react_router-CA4245?style=flat&logo=reactrouter&logoColor=white"/></br>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitkraken-179287?style=flat&logo=gitkraken&logoColor=white"/></br>
 
 ## 🔍 Studying & 관심 기술
