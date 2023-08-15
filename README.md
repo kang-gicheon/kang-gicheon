@@ -40,10 +40,12 @@
 
 ## 📝 사용 언어 & stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-gicheon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kang-gicheon&theme=tokyonight&show_icons=true" style="height: 200px;" />
-</div>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-gicheon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=kang-gicheon&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 ## 🎨 개발한 웹서비스
 </hr>
